@@ -1,2 +1,1 @@
-# seo
-search Engine Optimization 
+# Search Engine Optimization 
